@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/ico.png</file>
+        <file>ico/add.png</file>
+        <file>ico/del.png</file>
+        <file>ico/open.png</file>
+        <file>ico/update.png</file>
+    </qresource>
+</RCC>
